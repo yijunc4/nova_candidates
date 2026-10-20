@@ -2,7 +2,7 @@
 
 An astronomy data analytics portfolio project using Python, PostgreSQL, and Tableau to explore CV/Nova candidates and rank 10 targets for follow-up consideration.
 
-![Nova Follow-up Priorities dashboard](CV_Nova_final.png)
+![Nova Follow-up Priorities dashboard](CV_Nova_final.png?v=36d81310)
 
 ## Data Source
 
